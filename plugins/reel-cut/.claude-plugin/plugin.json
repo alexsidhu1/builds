@@ -1,0 +1,9 @@
+{
+  "name": "reel-cut",
+  "description": "Chop a raw talking-head video into a tight cut with no dead space: retakes, fillers and pauses out, every join under 0.1s, no word clipped.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Alex Sidhu",
+    "url": "https://alexsidhu.com"
+  }
+}

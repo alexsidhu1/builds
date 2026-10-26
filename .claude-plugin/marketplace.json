@@ -1,0 +1,15 @@
+{
+  "name": "builds",
+  "description": "Things I've built with Claude, packaged so you can use them too. By Alex Sidhu.",
+  "owner": {
+    "name": "Alex Sidhu",
+    "url": "https://alexsidhu.com"
+  },
+  "plugins": [
+    {
+      "name": "reel-cut",
+      "source": "./plugins/reel-cut",
+      "description": "Chop a raw talking-head video into a tight cut with no dead space: retakes, fillers and pauses out, every join under 0.1s, no word clipped."
+    }
+  ]
+}
